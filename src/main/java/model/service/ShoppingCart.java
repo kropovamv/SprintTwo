@@ -1,9 +1,7 @@
 package model.service;
 
-import model.Apple;
 import model.Discountable;
 import model.Food;
-import model.Meat;
 
 public class ShoppingCart {
     private final Food[] items;
